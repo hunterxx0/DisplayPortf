@@ -32,6 +32,21 @@ the displayAPI provides the abiltiy for users to create an account with one of t
   
 ## Front-end
 
+- Built with Reactjs and tailwindcss
+- Consumed Streamchat api to create a messaging platform
+- Deployed on vercel
+
+
+#### Pages
+
+- Home
+- Category
+- Products
+- Product
+- Seller Profile
+- User Profile
+- Messaging interface
+
 
 ## Back-end
 
