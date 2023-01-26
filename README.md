@@ -4,11 +4,6 @@
 
 The displayAPI is a RESTful API for an expo company, It comes populated from the uptake with many products, users, sellers.
 
-## Front-end
-
-
-## Back-end
-
 ### Objective
 
 primarily used to exhibit products on a 24-hour basis,
@@ -34,7 +29,11 @@ the displayAPI provides the abiltiy for users to create an account with one of t
   - moderate flagged messages on the messaging app
   - capable of banning or even deleting accounts based on the wesbite rules
 
-### Backend
+  
+## Front-end
+
+
+## Back-end
 
 - Built with Nodejs and Express
 - all sensitive/private endpoints were protected with JWT (JSON Web Tokens).
