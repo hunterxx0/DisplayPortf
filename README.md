@@ -44,7 +44,17 @@ the displayAPI provides the abiltiy for users to create an account with one of t
 - Products
 - Product
 - Seller Profile
+  - about
+  - products
+  - requests
+  - Followers (users)
+  - Plan
 - User Profile
+  - about
+  - favorites (products)
+  - following (sellers)
+  - requests (products)
+  - history (viewed products)
 - Messaging interface
 
 
