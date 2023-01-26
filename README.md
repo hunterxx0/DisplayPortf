@@ -57,6 +57,23 @@ the displayAPI provides the abiltiy for users to create an account with one of t
   - history (viewed products)
 - Messaging interface
 
+#### Previews
+
+###### Home:
+![](images/HomePage.png)
+
+###### Product Profile:
+![](images/ProductProfile.png)
+
+###### Searching for Products:
+![](images/SearchProducts.png)
+
+###### Searching Products By Category:
+![](images/SearchingProductsByCategory.png)
+
+###### Seller Profile:
+![](images/SellerProfile.png)
+
 
 ## Back-end
 
